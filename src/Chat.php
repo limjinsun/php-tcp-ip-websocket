@@ -46,9 +46,6 @@ class Chat implements MessageComponentInterface {
 }
 
 
-
-
-
 // if ($from !== $client) {
 //     // If sender is not the receiver, send to each client connected
 //     $client->send($msg);
